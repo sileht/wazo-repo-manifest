@@ -2,16 +2,19 @@
 import os
 import sys
 import requests
+import getpass
 
 
 def get_repos():
     url = "https://api.github.com/orgs/wazo-pbx/repos"
     session = requests.Session()
+    user = getpass.getpass('GitHub user: ')
+    token = getpass.getpass('GitHub password/token: ')
     while True:
         response = session.get(url, headers={
             "Accept": "application/vnd.github.machine-man-preview+json",
             "User-Agent": "PyGithub/Python",
-        }, auth=("sileht", os.getenv("GITHUB_TOKEN"))
+        }, auth=(user, token))
         if response.ok:
             for r in response.json():
                 yield r

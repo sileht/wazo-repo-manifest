@@ -45,8 +45,7 @@
     <project name="wazo-pbx/wazo-call-logd" path="wazo-call-logd"/>
     <project name="wazo-pbx/xivo-certs" path="xivo-certs"/>
     <project name="wazo-pbx/xivo-ci" path="xivo-ci"/>
-    <project name="wazo-pbx/xivo-confd" path="xivo-confd"/>
-    <project name="wazo-pbx/xivo-confd-client" path="xivo-confd-client"/>
+    <project name="wazo-pbx/wazo-confd" path="wazo-confd"/>
     <project name="wazo-pbx/xivo-confgend" path="xivo-confgend"/>
     <project name="wazo-pbx/xivo-confgend-client" path="xivo-confgend-client"/>
     <project name="wazo-pbx/xivo-config" path="xivo-config"/>
@@ -65,7 +64,6 @@
     <project name="wazo-pbx/xivo-dxtora" path="xivo-dxtora"/>
     <project name="wazo-pbx/xivo-dxtorc" path="xivo-dxtorc"/>
     <project name="wazo-pbx/xivo-experimental" path="xivo-experimental"/>
-    <project name="wazo-pbx/xivo-fai" path="xivo-fai"/>
     <project name="wazo-pbx/xivo-fetchfw" path="xivo-fetchfw"/>
     <project name="wazo-pbx/xivo-python-flask-cors-packaging" path="xivo-python-flask-cors-packaging"/>
     <project name="wazo-pbx/xivo-lib-python" path="xivo-lib-python"/>
@@ -167,4 +165,7 @@
     <project name="wazo-pbx/wazo-doc-ng" path="wazo-doc-ng"/>
     <project name="wazo-pbx/wazo-doc-tools" path="wazo-doc-tools"/>
     <project name="wazo-pbx/test-repo" path="test-repo"/>
+    <project name="wazo-pbx/wazo-confd-client" path="wazo-confd-client"/>
+    <project name="wazo-pbx/sf-config" path="sf-config"/>
+    <project name="wazo-pbx/sf-jobs" path="sf-jobs"/>
 </manifest>
