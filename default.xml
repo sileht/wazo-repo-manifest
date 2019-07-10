@@ -164,7 +164,6 @@
     <project name="wazo-pbx/wazo-auth-client" path="wazo-auth-client"/>
     <project name="wazo-pbx/wazo-doc-ng" path="wazo-doc-ng"/>
     <project name="wazo-pbx/wazo-doc-tools" path="wazo-doc-tools"/>
-    <project name="wazo-pbx/test-repo" path="test-repo"/>
     <project name="wazo-pbx/wazo-confd-client" path="wazo-confd-client"/>
     <project name="wazo-pbx/sf-config" path="sf-config"/>
     <project name="wazo-pbx/sf-jobs" path="sf-jobs"/>
