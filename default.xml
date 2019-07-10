@@ -28,9 +28,9 @@
     <project name="wazo-pbx/wazo-platform" path="wazo-platform"/>
     <project name="wazo-pbx/wazo-acceptance" path="wazo-acceptance"/>
     <project name="wazo-pbx/xivo-acceptance-server" path="xivo-acceptance-server"/>
-    <project name="wazo-pbx/xivo-agentd" path="xivo-agentd"/>
-    <project name="wazo-pbx/xivo-agentd-cli" path="xivo-agentd-cli"/>
-    <project name="wazo-pbx/xivo-agentd-client" path="xivo-agentd-client"/>
+    <project name="wazo-pbx/wazo-agentd" path="wazo-agentd"/>
+    <project name="wazo-pbx/wazo-agentd-cli" path="wazo-agentd-cli"/>
+    <project name="wazo-pbx/wazo-agentd-client" path="wazo-agentd-client"/>
     <project name="wazo-pbx/xivo-agid" path="xivo-agid"/>
     <project name="wazo-pbx/xivo-amid" path="xivo-amid"/>
     <project name="wazo-pbx/xivo-amid-client" path="xivo-amid-client"/>
