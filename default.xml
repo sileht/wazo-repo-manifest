@@ -30,12 +30,10 @@
     <project name="wazo-pbx/xivo-acceptance-server" path="xivo-acceptance-server"/>
     <project name="wazo-pbx/wazo-agentd" path="wazo-agentd"/>
     <project name="wazo-pbx/wazo-agentd-cli" path="wazo-agentd-cli"/>
-    <project name="wazo-pbx/wazo-agentd-client" path="wazo-agentd-client"/>
     <project name="wazo-pbx/xivo-agid" path="xivo-agid"/>
     <project name="wazo-pbx/xivo-amid" path="xivo-amid"/>
     <project name="wazo-pbx/xivo-amid-client" path="xivo-amid-client"/>
     <project name="wazo-pbx/wazo-auth" path="wazo-auth"/>
-    <project name="wazo-pbx/xivo-auth-client" path="xivo-auth-client"/>
     <project name="wazo-pbx/wazo-auth-example-backend" path="wazo-auth-example-backend"/>
     <project name="wazo-pbx/xivo-backup" path="xivo-backup"/>
     <project name="wazo-pbx/xivo-benchmark" path="xivo-benchmark"/>
@@ -76,7 +74,6 @@
     <project name="wazo-pbx/xivo-monitoring" path="xivo-monitoring"/>
     <project name="wazo-pbx/xivo-nginx" path="xivo-nginx"/>
     <project name="wazo-pbx/wazo-notebook" path="wazo-notebook"/>
-    <project name="wazo-pbx/xivo-pjsip" path="xivo-pjsip"/>
     <project name="wazo-pbx/xivo-presentations" path="xivo-presentations"/>
     <project name="wazo-pbx/xivo-provd-cli" path="xivo-provd-cli"/>
     <project name="wazo-pbx/xivo-provd-plugins" path="xivo-provd-plugins"/>
@@ -167,4 +164,6 @@
     <project name="wazo-pbx/wazo-confd-client" path="wazo-confd-client"/>
     <project name="wazo-pbx/sf-config" path="sf-config"/>
     <project name="wazo-pbx/sf-jobs" path="sf-jobs"/>
+    <project name="wazo-pbx/react-native-firebase" path="react-native-firebase"/>
+    <project name="wazo-pbx/wazo-agentd-client" path="wazo-agentd-client"/>
 </manifest>
